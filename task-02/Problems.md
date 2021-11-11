@@ -1,0 +1,6 @@
+# Problems I faced
+I taught at first this task would be tough as hell(but it was actually chill).I was very new to Ubuntu and the git commands so at first refered to the reference given by the task folder and also used around 3-4 different websites to know clearly to do different functions like creating files ,making directory ,editing etc.
+
+So that alone took me around two hours and I also watched 2-3 YouTube tutorials too in which different ways are shown.Everything was going smoothly until I reached the git push command
+
+ The problem I faced at first was the git automatically set my branch to master.It took me a while to figure that and then I changed it.After that came the git push origin main command.I gave my userid and password(nowadays tokens).Then showing error that commit is not initialised even though i gave the commit command.Then I asked the help of a senior,and she advised me different ways to fix it and the error also mentioned about doinf the git pull too(which usually dosent occur).So after refering to so many websites and many Youtube tutorials and almost 8 hours of my time for it,It somehow worked and I was able to upload my Coordinates-Location folder to it.Then lates added ss.
