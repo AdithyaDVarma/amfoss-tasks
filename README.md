@@ -7,7 +7,7 @@
 [Task-00](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-00)|Install Ubuntu|Completed
 [Task-01](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-01)|Star all amFOSS repos|Completed
 [Task-02](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-02)|Coordinates location|Completed
-[Task-03](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-03)|Programming|
+[Task-03](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-03)|Programming|Did 3 questions
 [Task-04](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-04)|Python CLI app|
 [Task-05](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-05)|C debugging|Completed
 [Task-06](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-06)|Flutter UI|
