@@ -16,8 +16,8 @@
 [Task-09](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-09)|Personal Website|
 [Task-10](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-10)|CS50|
 [Task-11](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-11)|Poster design|Completed
-[Task-12](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-12)|Make the Block|
-[Task-13](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-13)|Circuit design|
+[Task-12](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-12)|Make the Block|Did not attempt
+[Task-13](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-13)|Circuit design|Did not attempt
 [Task-14](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-14)|Bandit Over the wire|Completed
 [Task-15](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-15)|Project Euler|Did the first three
 
