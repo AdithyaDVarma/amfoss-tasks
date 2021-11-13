@@ -11,7 +11,7 @@
 [Task-04](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-04)|Python CLI app|
 [Task-05](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-05)|C debugging|Completed
 [Task-06](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-06)|Flutter UI|
-[Task-07](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-07)|Scrapper|
+[Task-07](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-07)|Scrapper|[Readme](https://github.com/AdithyaDVarma/amfoss-tasks/blob/main/task-07/README.md)
 [Task-08](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-08)|JS Explorer|
 [Task-09](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-09)|Personal Website|
 [Task-10](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-10)|CS50|
