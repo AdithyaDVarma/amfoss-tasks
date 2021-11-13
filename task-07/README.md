@@ -11,3 +11,5 @@ Then I thought something wrong with my system so I updated the Go tools and even
  Then I think a decision (for me it was stupid) to reinstall both Go and VS.
  When I did that not even a single code worked and everytime it was showing me compilor error or package not found etc
  
+ The photo I shared was the best I could do in my limited time.
+ 
