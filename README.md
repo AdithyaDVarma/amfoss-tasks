@@ -8,7 +8,7 @@
 [Task-01](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-01)|Star all amFOSS repos|Completed
 [Task-02](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-02)|Coordinates location|Completed
 [Task-03](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-03)|Programming|Did 3 questions
-[Task-04](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-04)|Python CLI app|
+[Task-04](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-04)|Python CLI app|Completed
 [Task-05](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-05)|C debugging|Completed
 [Task-06](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-06)|Flutter UI|
 [Task-07](https://github.com/AdithyaDVarma/amfoss-tasks/tree/main/task-07)|Scrapper|[Readme](https://github.com/AdithyaDVarma/amfoss-tasks/blob/main/task-07/README.md)
