@@ -28,3 +28,19 @@ The tasks were tough for me because many of them were new like JS,Bandit tasks,G
 Hiya mentors
 
 My name is Adithya D Varma and I am from Kottayam,Kerala.I studied in Placid Vidya Vihar,Changanashery.I came to know about amFOSS club from my cousin,who studied their in the college and also from Quora.From these I cam e to know that the club promotes and supports our knowledge and gives real-life experience and improves our coding skills too.By doing these tasks,I feel like I improved and get to know more about new stuff.
+
+
+
+# Incompletion  of my tasks
+
+I will come clean to you, I had very littile time to work on the tasks.
+
+First ,I am very new to these tasks and yes it took me some time to understand these tasks
+
+Second, my schedule.I know that many students of my age are able to do almost 80% of the tasks by the time given.TBH,I have started getting assignemnts by the 1 week of college.
+And I am from AI batch ,so I have to attend well and score good marks for it as I have a continuous evaluation system.After that I am getting quizes and class tests,frankly those were raining on me. Classes from 8:30 am to 5 pm  and after that studying the portions and doing some assignments and all.
+
+Third,Lack of hands-on experience.I have no experience while doing the tasks and it took me a lot of time to just do simple tasks and also getting introduced to new interfaces etc.This honestly took most of the time left and also referring YouTube and Google and other sources.
+
+I have genuinely went through all the tasks but due to these reasons and the limited amount of time I was unable to complete everything and have to make like few incompleted tasks too.
+I hope the tasks i have done was satisfactory and looking forward for your positive feedback :)
