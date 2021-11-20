@@ -1,3 +1,3 @@
 # Circuit problem
 
-Sorry,I haven't tried it
+Sorry,I haven't tried it.
